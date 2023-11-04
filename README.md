@@ -1,6 +1,6 @@
 # Hope Guardian: Your Mental Health Companion
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![LOGO](https://github.com/Wayne-arul/hope_guardian/blob/main/logo.jpg?raw=true)
 
 ## Introduction
 
