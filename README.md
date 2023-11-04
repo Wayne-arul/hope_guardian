@@ -1,5 +1,7 @@
 # Hope Guardian: Your Mental Health Companion
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ## Introduction
 
 **Hope Guardian**: A groundbreaking program harnessing the power of ChatGPT API and OpenAI API to provide unwavering support for your mental well-being. It offers personalized guidance, invaluable tips, and effective emotional coping strategies. 
