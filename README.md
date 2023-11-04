@@ -59,7 +59,7 @@ Place your own data into `data/`.
 
 ## Example usage
 
-### Example of personal-gpt
+### Example of hope guardian
 Test reading `data/cognitive-behavioural-therapy` file.
 
 ```
